@@ -6,16 +6,16 @@
 
 ## 🚀 About Me
 
-- **Current Role:**  
+- **Currently:**  
   Graduate Student (MS in Computer Science), Columbia University  
 - **Research & Engineering Experience:**  
-  - Research Assistant @ [Columbia Climate School](https://www.climate.columbia.edu/)
-  - Founding Software Engineer @ [Threepio](https://threepio.ai/)
-  - Technical Intern @ Intel
+  - ML Researcher @ [Columbia Climate School](https://www.climate.columbia.edu/)
+  - Founding Software Engineer @Threepio
+  - Technical Intern @ [Intel](https://www.intel.com/content/www/us/en/homepage.html)
   - Summer Research Intern @ IIT Jodhpur
 
 - **Interests:**  
-  Neural Networks | ML & AI | Computer Vision | Backend Systems
+   ML & AI | Neural Networks | Computer Vision | Backend Systems | LLMS
 
 
 ## 🛠️ Top Skills
