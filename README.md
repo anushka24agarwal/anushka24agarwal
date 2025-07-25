@@ -31,7 +31,7 @@
 
 - [URL Shortener App](https://github.com/anushka24agarwal/url-shortener)  
   A simple and efficient tool to shorten URLs for easy sharing and analytics.
-- [AI Health and Fitness Agent App](https://github.com/anushka24agarwal/ai-health-fitness-agent)  
+- [AI Health and Fitness Agent App](https://github.com/anushka24agarwal/AI_Fitness_Agent)  
   An intelligent agent to help users track and improve their health and fitness goals.
 
 
